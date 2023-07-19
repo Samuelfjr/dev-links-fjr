@@ -79,6 +79,10 @@ body * {
     animation: slide-in 0.2s forwards;
 }
 
+#switch button:hover {
+    outline: 8px solid var(--highligth-color)
+}
+
 #switch span {
     display: block;
     width: 64px;
@@ -168,7 +172,7 @@ footer {
     from {
         left: 50%;
     }
-    to (
+    to {
         left:0;
-    )
+    }
 }
