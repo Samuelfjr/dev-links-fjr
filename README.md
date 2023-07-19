@@ -1,4 +1,5 @@
 # DevLinksFJR
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Samuelfjr/dev-links-fjr/blob/main/LICENSE) 
 
 ## :tv: Layout Modo Claro
 ![preview-light](https://github.com/Samuelfjr/dev-links-fjr/assets/79173261/8230b148-bff6-422c-a9d9-e8ab652bb9c2)
