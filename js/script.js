@@ -6,10 +6,10 @@ function toggleMode() {
     const alt = document.querySelector("#profile img");
 
     if(html.classList.contains('light')) {
-        image.setAttribute('src', '../assets/profile-light.png');
+        image.setAttribute('src', './assets/profile-light.png');
         alt.setAttribute('alt', 'Foto do Samuel sorrindo, com barba, camiseta branca e óculos do meme "turn down for what".');    
     } else {
-        image.setAttribute('src', '../assets/profile.png');
+        image.setAttribute('src', './assets/profile.png');
         alt.setAttribute('alt', 'Foto do Samuel sorrindo, com barba e camiseta branca.');
     }
 }
